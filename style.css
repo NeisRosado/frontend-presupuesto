@@ -1,0 +1,35 @@
+
+
+#btn-add  {
+    background-color: burlywood;
+    align-self: center;
+    width: 200px;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    border: 1px solid white;
+
+}
+
+#table__products {
+    width: 100%;
+    border: 1px solid black;
+}
+
+#table__products thead{
+   background-color: burlywood;
+   color: white;
+   height: 2.5rem;
+}
+
+#table__products tbody{
+    text-align: center;
+ }
+
+#table__products tbody tr td{
+    padding: 1rem 0;
+ }
